@@ -1,0 +1,9 @@
+{
+    "require": {},
+    "autoload": {
+        "files": [
+            "config.php",
+            "MySqlHandler.php"
+        ]
+    }
+}
